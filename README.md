@@ -1,4 +1,6 @@
-# vue_crash_todolist
+# Vue Test
+
+This was a crash course https://www.youtube.com/watch?v=Wy9q22isx3U 
 
 ## Project setup
 ```
